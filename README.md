@@ -31,6 +31,6 @@ tox -e checks
 We welcome contributions! Prior to submitting a pull request, ensure your code aligns with project standards by running the provided checks and tests using tox.
 
 ## License
-This project is licensed under the [MIT License](https://github.com/Ubeydkhoiri/titanic-classification-model/LICENSE).
+This project is licensed under the [MIT License](https://github.com/Ubeydkhoiri/titanic-classification-model/blob/main/LICENSE).
 
 Happy coding!
